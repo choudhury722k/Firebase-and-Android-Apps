@@ -1,4 +1,4 @@
 # Firebase-Android-App
-Please read *about.md  files for moe information 
+Please read *about.md  files for more information 
 
 Thank You :D
